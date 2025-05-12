@@ -9,10 +9,19 @@
 
 ## 🔍 About Me
 
-🎓 **Data Engineer Intern** with strong foundation in **data pipelines**, **cloud platforms**, and **BI tools**.  
-🚀 Passionate about building **scalable data solutions** and integrating **AI into ETL workflows**.  
-💡 Always exploring new technologies in the world of **Big Data, Cloud, and ML**.
+## 🔍 About Me
 
+👨‍💻 Data Engineer passionate about building scalable data systems,  
+⚙️ Optimizing ETL pipelines, and turning raw data into actionable insights.  
+
+🐍 Proficient in **Python**, **SQL**, and **PySpark**  
+☁️ Hands-on experience with **Microsoft Azure** and **Google Cloud**  
+
+🗄️ Experienced in **data warehousing**, big data processing with **Databricks** and **Hadoop**  
+📊 Skilled in **Power BI** and **Tableau** for data visualization  
+
+🧠 Eager to integrate **AI** into data workflows to enhance efficiency  
+and extract deeper, more meaningful insights.
 ---
 
 ## 🧰 Tech Stack & Skills
