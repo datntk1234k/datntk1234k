@@ -1,6 +1,6 @@
-<h1 align="center">👋 Xin chào! Tôi là <span style="color:#4CAF50;">Nguyen Thanh Dat</span></h1>
+<h1 align="center">👋 Hello! I'm <span style="color:#4CAF50;">Nguyen Thanh Dat</span></h1>
 <p align="center">
-  <b>Data Engineer • Pythonista • Cloud Enthusiast • Big Data Explorer</b><br/>
+  <b>Data Engineer • Cloud Enthusiast • Python & Big Data Explorer</b><br/>
   <a href="https://github.com/datntk1234k"><img src="https://img.shields.io/github/followers/datntk1234k?label=Follow&style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/ngthanhdat1811/"><img src="https://img.shields.io/badge/LinkedIn-Dat-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
