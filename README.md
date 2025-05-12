@@ -9,8 +9,6 @@
 
 ## 🔍 About Me
 
-## 🔍 About Me
-
 👨‍💻 Data Engineer passionate about building scalable data systems,  
 ⚙️ Optimizing ETL pipelines, and turning raw data into actionable insights.  
 
